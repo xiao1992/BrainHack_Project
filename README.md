@@ -16,11 +16,11 @@ This project investigates whether individuals share common EEG response patterns
 Kroupi et al. (2014) demonstrated that EEG signals could classify pleasant vs. unpleasant odor perception with high accuracy in a subject-specific manner. However, subject-independent classification yielded lower performance, suggesting significant individual variation. The study did not explicitly test preference consistency across subjects or analyze EEG similarity among individuals who prefer the same odors. 
 
 ## Expected Outcomes
-Replication of Kroupi et al. (2014)'s within-subject EEG classification results of pleasant vs. unpleasant odors.
-Statistical analysis of cross-subject odor pleasantness agreement.
-Clustering of EEG responses among individuals with similar preferences.
-Development of simple classifiers to predict preference class from EEG, including cross-subject generalization.
-A set of visualizations mapping EEG response patterns to odors.
+- Replication of Kroupi et al. (2014)'s within-subject EEG classification results of pleasant vs. unpleasant odors.
+- Statistical analysis of cross-subject odor pleasantness agreement.
+- Clustering of EEG responses among individuals with similar preferences.
+- Development of simple classifiers to predict preference class from EEG, including cross-subject generalization.
+- A set of visualizations mapping EEG response patterns to odors.
 
 ---
 
