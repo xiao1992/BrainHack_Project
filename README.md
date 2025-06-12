@@ -8,8 +8,6 @@ github_repo: (https://github.com/xiao1992/BrainHack_Project/tree/main)
 
 tags: [Machine Learning, EEG, odor perception, brainhack]
 
-# Summarize your project in < ~75 words. This description will appear at the top of your page and on the list page with other projects..
-
 summary: "The human sense of smell plays a crucial role in emotional experience. EEG recordings provide a non-invasive technique for neural responses during olfactory perception. Previous research has shown that EEG can distinguish between pleasant and unpleasant odors at an individual level (Kroupi et al.,2014), but the consistency of these preferences across individuals and their potential for predictive modeling remain open questions."
 
 ## Project definition
@@ -63,15 +61,15 @@ Explored beyond the original paper on subjective vs objective odor labels ML res
 
 #### Deliverable 1: ML results on subjective vs objective labels and eyes open vs eyes closed conditions
 
-ML results: (https://github.com/xiao1992/BrainHack_Project/blob/main/EEG_model_results.tex)
+ML results: [Machine Learning Results](https://github.com/xiao1992/BrainHack_Project/blob/main/EEG_model_results.tex)
 
 #### Deliverable 2: Figures of which channels, locations are most active during the odor sensoring experience and different conditions
 
-You can check out the (https://github.com/xiao1992/BrainHack_Project/tree/main/figures)
+You can check out the [Figures subject level and group level](https://github.com/xiao1992/BrainHack_Project/tree/main/figures)
 
-#### Deliverable 3: NeuroSuite Packge 
+#### Deliverable 3: NeuroSuite Package 
 
-You can check out the ((https://github.com/xiao1992/NeuroSuite))
+You can check out the [NeuroSuite Package]((https://github.com/xiao1992/NeuroSuite))
 
 ## Conclusion and acknowledgement
 
