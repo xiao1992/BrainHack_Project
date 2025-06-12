@@ -7,9 +7,9 @@ names: [Xiaoan Wang]
 
 github_repo: github.com/xiao1992/BrainHack_Project
 
-tags: [Machine Learning, EEG, odor perception, brainhack]
+tags: [ML, EEG, odor, brainhack]
 
-summary: "The human sense of smell plays a crucial role in emotional experience. EEG recordings provide a non-invasive technique for neural responses during olfactory perception. Previous research has shown that EEG can distinguish between pleasant and unpleasant odors at an individual level (Kroupi et al.,2014), but the consistency of these preferences across individuals and their potential for predictive modeling remain open questions."
+summary: "The human sense of smell plays a crucial role in emotional experience. Previous research has shown that EEG can distinguish between pleasant and unpleasant odors at an individual level (Kroupi et al.,2014), but the consistency of these preferences across individuals remain open questions."
 ---
 
 ## Project definition
