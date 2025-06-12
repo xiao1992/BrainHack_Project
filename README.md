@@ -11,6 +11,8 @@ tags: [Machine Learning, EEG, odor perception, brainhack]
 
 summary: "The human sense of smell plays a crucial role in emotional experience. EEG recordings provide a non-invasive technique for neural responses during olfactory perception. Previous research has shown that EEG can distinguish between pleasant and unpleasant odors at an individual level (Kroupi et al.,2014), but the consistency of these preferences across individuals and their potential for predictive modeling remain open questions."
 
+<!-- This is an html comment and this won't appear in the rendered page. You are now editing the "content" area, the core of your description. Everything that you can do in markdown is allowed below. We added a couple of comments to guide your through documenting your progress. -->
+
 ---
 
 ## Project definition
