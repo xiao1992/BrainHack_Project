@@ -5,7 +5,7 @@ title: "EEG-Based Odor Preference Modeling 🌹🧀️🪷🍃"
 
 names: [Xiaoan Wang]
 
-github_repo: https://github.com/xiao1992/BrainHack_Project/tree/main
+github_repo: [link](https://github.com/xiao1992/BrainHack_Project/tree/main)
 
 tags: [Machine Learning, EEG, odor perception, brainhack]
 
