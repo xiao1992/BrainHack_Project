@@ -14,6 +14,8 @@ image: "https://i0.wp.com/kafkaesqueblog.com/wp-content/uploads/2022/09/brain-sc
 
 ## Project definition
 
+![Brain and Scent](https://i0.wp.com/kafkaesqueblog.com/wp-content/uploads/2022/09/brain-scent.jpg)
+
 ### Background
 
 Kroupi et al. (2014) demonstrated that EEG signals could classify pleasant vs. unpleasant odor perception with high accuracy in a subject-specific manner. However, subject-independent classification yielded lower performance, suggesting significant individual variation. The study did not explicitly test preference consistency across subjects or analyze EEG similarity among individuals who prefer the same odors. 
